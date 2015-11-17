@@ -1,0 +1,14 @@
+{
+    "author": {
+        "name": "FM-Icon"
+    },
+    "name": "FM-Icon",
+    "keywords": [
+        "FM-Icon"
+    ],
+    "license": "MIT",
+    "description": "FM-Icon.",
+    "version": "0.0.1",
+    "main": ["./iconfont.css","./test.js"] 
+  
+}
